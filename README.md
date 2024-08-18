@@ -1,5 +1,3 @@
-
-<img src= "https://i.pinimg.com/564x/d8/1b/ae/d81baeb463fe76a14d6b22b69712868a.jpg" width="250px">
 <h1>Abrahan Corona</h1>
 <h2> Frontend Dev</h2>
 
