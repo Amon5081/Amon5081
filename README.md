@@ -1,11 +1,11 @@
 
-<img src= "https://i.pinimg.com/564x/d8/1b/ae/d81baeb463fe76a14d6b22b69712868a.jpg">
-# Abrahan Corona
-## Frontend Dev
+<img src= "https://i.pinimg.com/564x/d8/1b/ae/d81baeb463fe76a14d6b22b69712868a.jpg" width="250px">
+<h1>Abrahan Corona</h1>
+<h2> Frontend Dev</h2>
 
 
-## 🚀 Sobre mi
-Desarrollador frontend apasionado por crear experiencias web interactivas y de alta calidad. Experto en React, me encanta construir interfaces de usuario complejas y eficientes. Siempre estoy buscando nuevas tecnologías y adquirir nuevos conocimientos.
+<h2>🚀 Sobre mi</h2>
+Desarrollador frontend apasionado por crear experiencias web interactivas y de alta calidad. Con buen manejo en React, me encanta construir interfaces de usuario complejas y eficientes. Siempre estoy buscando nuevas tecnologías y adquirir nuevos conocimientos.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
