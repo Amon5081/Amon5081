@@ -1,5 +1,5 @@
 
-![Logo](https://i.pinimg.com/564x/d8/1b/ae/d81baeb463fe76a14d6b22b69712868a.jpg)
+<img src= "https://i.pinimg.com/564x/d8/1b/ae/d81baeb463fe76a14d6b22b69712868a.jpg">
 # Abrahan Corona
 ## Frontend Dev
 
